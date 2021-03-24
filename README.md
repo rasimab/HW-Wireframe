@@ -1,7 +1,7 @@
 # HW-Wireframe
 
-## Hase been done this easy task related Intruduction
+## Hase been done this easy task related Instruction
 
-* Generelize all repeated rows in one 
+* Generelized all repeated rows in one 
 
 
