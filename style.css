@@ -1,0 +1,46 @@
+
+body {
+    width: 960px;
+    margin: auto;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 34px;
+    background: #777;
+}
+
+.w90 {width: 90%}
+.g-forall {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background: #ebebeb;
+    color: #777;
+}
+
+section {
+    display: block;
+    float: left;
+    width: 50%;
+    height: 250px;
+    overflow: hidden;
+  }
+  
+  aside {
+    display: block;
+    float: right;
+    width: 40%;
+    height: 250px;
+    overflow: hidden;
+  }
+
+  .clear {
+    clear: both;
+  }
+
+  article {
+    padding: 10px;
+    color: #ebebeb;
+    background: #777;
+  }
+
+
